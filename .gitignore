@@ -1,0 +1,12 @@
+*.lock
+vendor
+
+# ditial ocean config
+doConfig
+
+# chef
+cookbooks
+site-cookbooks
+.vagrant
+.chef
+
